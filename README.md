@@ -4,7 +4,7 @@ He is also a research affiliate for the Wolfram Physics Project and a [Wolfram S
 Some of his hobbies are playing and collecting retro games, programming, reading and imagining about the future.
 
 - 👀 I’m interested in ML, DP, AI, Maths, Physics and many other things.
-- 🌱 I’m currently learning Pytorch and TF.
+- 🌱 Learning Pytorch and TF.
 - :mage: I’m currently working on GIS solutions using ML and DL.  
 
 
