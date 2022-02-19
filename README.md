@@ -1,11 +1,13 @@
 # Who is Tobias? 👋 
-[Tobías][1] is in love with mathematics, the universe and artificial intelligence. After finishing his degree in astronomy, he has become a PhD student in theoretical physics with a scholarship granted by the Argentine National Council of Scientific and Technical Research. He enjoys working with people from different areas because he believes that multidisciplinary research is vital for the advancement of society. Some time ago he joined Accenture as a data scientist consultant where he works on very interesting topics such as forecasting, customer segmentation, and many other things.
-He is also a research affiliate for the Wolfram Physics Project and a [Wolfram Summer School 2021][2] mentor. 
-Some of his hobbies are playing and collecting retro games, programming, reading and imagining about the future.
+I consider myself[1] in love with mathematics and the Universe. I have a bachelor degree in Astronomy and I'm in the last year of my Ph.D. in theoretical physics.
+I also like technology (particularly Artificial Intelligence). I did Data Science courses and i have experience working in important projects across various industries for Accenture. I'm a versatile person, capable of adapting to any task or problem to solve.
+I'm also a research affiliate for the Wolfram Physics Project and a [Wolfram Summer School 2021][2] mentor. 
+I enjoy working with people from different areas because i think that multidisciplinary collaboration is key to the advancement of society. 
+Some of my hobbies are playing and collecting retro games, programming, reading, and thinking about the future.
+
 
 - 👀 I’m interested in ML, DP, AI, Maths, Physics and many other things.
-- 🌱 Learning Pytorch and TF.
-- :mage: I’m currently working on forecasting solutions and segmentation problems. 
+- Industries: Mining, e-commerce, supply chain.
 
 
 <!---
